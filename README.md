@@ -1,4 +1,4 @@
-Este repositorio contiene el código de mi solución al **cuarto desafío** llamado **Sugerencia de videos** del módulo 4 **Programación avanzada en JavaScript** de la beca **Desarrollo de aplicaciones Full Stack Javascript Trainee** dictado por Desafío Latam. EL desafío es evaluado.
+Este repositorio contiene el código de mi solución al **cuarto desafío** llamado **Sugerencia de videos** del módulo 4 **Programación avanzada en JavaScript** de la beca **Desarrollo de aplicaciones Full Stack Javascript Trainee** dictada por Desafío Latam. El desafío es evaluado.
 
 Los requisitos del proyecto son los siguientes:
 
