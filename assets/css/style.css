@@ -1,0 +1,40 @@
+body {
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+img {
+  width: 10%;
+}
+iframe {
+  width: 100%;
+  max-width: 500px;
+  aspect-ratio: 16/9;
+  display: none;
+  margin: auto;
+}
+.card-header {
+  -webkit-box-shadow: inset 0px 0px 0px 3px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: inset 0px 0px 0px 3px rgba(0, 0, 0, 0.75);
+  box-shadow: inset 0px 0px 0px 3px rgba(0, 0, 0, 0.75);
+}
+.card-header button {
+  font-weight: 700;
+}
+#headingOne {
+  background-color: yellow;
+}
+#headingOne button {
+  color: black;
+}
+#headingTwo {
+  background-color: grey;
+}
+#headingTwo button {
+  color: white;
+}
+#headingThree {
+  background-color: green;
+}
+#headingThree button {
+  color: white;
+}
