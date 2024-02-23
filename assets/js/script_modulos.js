@@ -53,9 +53,9 @@ const objetoVideoSerie = new Reproductor(
   "series"
 );
 
-objetoVideoMusica.setInicio(50); //inicio en el segundo 500 del video
-objetoVideoPelicula.setInicio(30); //inicio en el segundo 300 del video
-objetoVideoSerie.setInicio(10); //inicio en el segundo 100 del video
+objetoVideoMusica.setInicio(50); //inicio en el segundo 50 del video
+objetoVideoPelicula.setInicio(30); //inicio en el segundo 30 del video
+objetoVideoSerie.setInicio(10); //inicio en el segundo 10 del video
 
 objetoVideoMusica.playMultimedia();
 objetoVideoPelicula.playMultimedia();
